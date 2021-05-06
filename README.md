@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Mohana Murali Dasari, Research Scholor (PhD) at Dept of Electrical Engineering, IIT Tirupati
+- 👋 Hi, I’m Mohana Murali Dasari, Research Scholor (PhD) in Computer Vision
+- At present I'm with Dept of Electrical Engineering, Indian Institute of Technology, Tirupati INDIA.
 - 👀 I’m interested in Computer Vision with focus on Visual Tracking
 - 🌱 I’m currently learning Deep Learning with Python 
 - 💞️ I’m looking to collaborate on Multi Object Tracking
