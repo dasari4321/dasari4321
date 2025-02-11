@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Mohana Murali Dasari, Research Scholor (PhD) Dept of Electrical Engineering, Indian Institute of Technology, Tirupati INDIA.
+- Hi, I’m Mohana Murali Dasari, working as Lead Engineer at Valeo R&D lab, Chennai.
+- 👋  Research Scholor (PhD) Dept of Electrical Engineering, Indian Institute of Technology, Tirupati INDIA.
 - I did my Masters in Visual Information Processing at IIT Kharagpur. My B.Tech is in ECE from JNTU Hyderabad.
 - 👀 Interested in Computer Vision with focus on Visual Object Tracking.
 - 🌱 I have expertise in Deep Learning with Python (PyTorch).  
